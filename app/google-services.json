@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138682925923",
+    "project_id": "fir-connection-af094",
+    "storage_bucket": "fir-connection-af094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138682925923:android:b9164ef915c77323e1c956",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138682925923-g0k72r7rf4k0r5lpkikc6o6rrvqlrji8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE9AJl8EFdU5HtCnYazV34CHmOPPXIjv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138682925923-g0k72r7rf4k0r5lpkikc6o6rrvqlrji8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
